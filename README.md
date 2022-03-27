@@ -9,7 +9,8 @@
 
 # Saffron 
 ## Geographic Distribution 
-<param ve-image 
+
+<param ve-image>
        label="Saffron Cultivation Map" 
        description="Saffron Cultivation Map" 
        license="public domain" 
