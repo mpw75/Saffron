@@ -30,7 +30,7 @@ _Crocus sativus_ corms are sterile due to domestic cultivation and require manua
 
 ## _In situ_
 Saffron is used for medicinal and aesthetic purposes and can be used to season food, dye cloth a vibrant gold color, strengthen henna paste, color cosmetic products and scent perfume. Frescoes from akotiri depict Saffron henna tattoos and Linear B tablets from Knossos mark the presence of Saffron in the ancient economy. 
-<img width="526" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png">
+<img width="800" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png">
 
 ## Seasonality 
 ## Nutrition/ Health Benefits
