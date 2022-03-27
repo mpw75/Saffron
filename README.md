@@ -54,15 +54,15 @@ Saffron is normally steeped in warm water, butter or milk into a flavoring addit
 ## Recipe Suggestion
 Madhur Jaffrey's Saffron Rice 
 Ingredients:
-1 teaspoon saffron threads
-3 tablespoons hot milk
-1/4 teaspoon ground cardamom
-1/4 teaspoon sugar
-2 cups basmati rice
-2 tablespoons ghee
-2 medium cinnamon sticks
-2 2/3 cups water
-1 teaspoon salt
+-1 teaspoon saffron threads
+-3 tablespoons hot milk
+-1/4 teaspoon ground cardamom
+-1/4 teaspoon sugar
+-2 cups basmati rice
+-2 tablespoons ghee
+-2 medium cinnamon sticks
+-2 2/3 cups water
+-1 teaspoon salt
 
 1. Place the saffron on a piece of foil. Fold some of the foil over the saffron and crush it with a rolling pin or wooden potato masher. Put the crushed saffron in a small cup. Add the hot milk, cardamom, and sugar. Mix with a toothpick or the handle of a small spoon and set aside for 3 hours.
 2. Put the rice in a bowl and wash in several changes of water. Drain, add fresh water to cover generously, and leave to soak for 30 minutes. Drain.
