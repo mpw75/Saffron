@@ -9,6 +9,12 @@
 
 # Saffron 
 ## Geographic Distribution 
+<param ve-image 
+       label="Saffron Cultivation Map" 
+       description="Saffron Cultivation Map" 
+       license="public domain" 
+       url="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:436688-1#source-KBD">
+
 ## Growth Preferences and Descriptions
 ## Abundance and Reproduction
 ## _In situ_
@@ -18,7 +24,19 @@
 ## Domestication Information 
 ## Recipe Suggestion
 
-# Basic usage
+# Date fruits
+## Geographic Distribution 
+## Growth Preferences and Descriptions
+## Abundance and Reproduction
+## _In situ_
+## Seasonality 
+## Nutrition/ Health Benefits
+## Plant usage
+## Domestication Information 
+## Recipe Suggestion
+
+
+
 
 ## Image
 
