@@ -2,7 +2,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Paleothnobotanical Surveys of Saffron and Dates"
+       title="Paleoethnobotanical Surveys of Saffron and Dates"
        author="Madeleine Wenger"
        banner="https://cdn.britannica.com/25/203625-050-64EDAEEE/Saffron-crocus-bloom-stigmas-flower-saffron-spice.jpg" 
        layout="vertical">
@@ -29,6 +29,9 @@ The plant thrives in medium moisture soils with drainage and grow best in sunny 
 _Crocus sativus_ corms are sterile due to domestic cultivation and require manual fertilization but because of the high value associated with the spice crop, approximately $5,000 per lb, Saffron is grown on an industrial scale. [^4]
 
 ## _In situ_
+Saffron is used for medicinal and aesthetic purposes and can be used to season food, dye cloth a vibrant gold color, strengthen henna paste, color cosmetic products and scent perfume. Frescoes from akotiri depict Saffron henna tattoos and Linear B tablets from Knossos mark the presence of Saffron in the ancient economy. 
+<img width="526" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png">
+
 ## Seasonality 
 ## Nutrition/ Health Benefits
 ## Plant usage
