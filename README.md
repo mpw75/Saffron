@@ -14,7 +14,7 @@
        label="Saffron Cultivation Map" 
        description="Saffron Cultivation Map" 
        license="public domain" 
-       url="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:436688-1#source-KBD">
+       url="https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:436688-1#distribution-map">
 
 ## Growth Preferences and Descriptions
 ## Abundance and Reproduction
