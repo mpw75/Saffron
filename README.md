@@ -32,17 +32,31 @@ _Crocus sativus_ corms are sterile due to domestic cultivation and require manua
 
 ## _In situ_
 Saffron is used for medicinal and aesthetic purposes and can be used to season food, dye cloth a vibrant gold color, strengthen henna paste, color cosmetic products and scent perfume. Frescoes from akotiri depict Saffron henna tattoos and Linear B tablets from Knossos mark the presence of Saffron in the ancient economy. 
+
+Dried saffron is very fragile and due to its arid environment is not likely to be found in an Archaeobotanical context. It would be more likely to find corm samples if they were carbonized or preserved due to a traumatic incident. [^8]
+
 <param ve-image>
-<img width="700" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png"> [^5]
+<img width="650" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png"> [^5]
 
 ## Seasonality 
-_Crocus sativus_ flowers in late August and early September. Long dry summers are most suitable for a successful autumn harvest. Another reason why Saffron is so valuable is because it can only be harvested once a year. 
+_Crocus sativus_ flowers in late August and early September. Long dry summers are most suitable for a successful autumn harvest. Another reason why Saffron is so valuable is because it can only be harvested once a year. [^3]
 
 ## Nutrition/ Health Benefits
+Saffron stigmas and essential oils from crocus petals can be added to food for antioxidant/ anti-inflammatory uses. The stigmas are the prized part of the plant and can be soaked to release mild healing properties. [^6]
+
+## Domestication Information 
+The story of Saffron's domestication is highly contested but the leading theory posits that it originates from Greece and its closest relatives are _C. cartwrightianus_ and _C. pallasii subsp. pallasii_ and other wild Crocus species that are becoming increasingly rare. Crocus sativus is likely a triploid crossbreed of _C. cartwrightianus_ and _C. pallasii subsp. pallasii_. [^7]
 
 ## Plant usage
-## Domestication Information 
+Saffron is normally steeped in warm water, butter or milk into a flavoring additive for larger dishes. It can also be steeped to make dye and other pigments. 
 ## Recipe Suggestion
+Madhur Jaffrey's Saffron Rice 
+1. Place the saffron on a piece of foil. Fold some of the foil over the saffron and crush it with a rolling pin or wooden potato masher. Put the crushed saffron in a small cup. Add the hot milk, cardamom, and sugar. Mix with a toothpick or the handle of a small spoon and set aside for 3 hours.
+2. Put the rice in a bowl and wash in several changes of water. Drain, add fresh water to cover generously, and leave to soak for 30 minutes. Drain.
+3. Pour the ghee in a heavy, lidded pan that will just hold the cooked rice comfortably and set over medium heat. When the ghee is hot, put in the cinnamon sticks. Stir for 10 seconds, then add the rice. Reduce the heat to medium-low and stir the rice around until the grain looks translucent, about 2 minutes. Add 2 2/3 cups of water and the salt. Bring to a boil. Cover. Reduce the heat to very, very low and cook for 25 minutes. Turn off the heat. Lift the lid and quickly dribble the saffron milk in any haphazard pattern. Quickly cover again and leave for 10 minutes. Mix the rice very delicately with a slotted spoon before serving. [^9]
+
+
+
 
 # Date fruits
 ## Geographic Distribution 
@@ -74,20 +88,6 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
 # References
 
 [^1]: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:436688-1#distribution-map
@@ -95,4 +95,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^3]: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281106 
 [^4]: https://www.businessinsider.com/why-saffron-world-most-expensive-spice-2018-4
 [^5]: https://academic.oup.com/jxb/article/64/18/5805/606750 
-
+[^6]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249922/
+[^7]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4549961/
+[^8]: https://academic.oup.com/jxb/article/64/18/5805/606750
+[^9]: https://www.foodnetwork.com/recipes/basmati-rice-with-cinnamon-saffron-recipe-1952205
