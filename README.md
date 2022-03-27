@@ -20,9 +20,11 @@ Golden stigmas of the Autumn crocus plant are native to Greece and have been int
 [^2]
 
 ## Growth Preferences and Descriptions
-_Crocus sativus sprouts 4-6 inches high from a corm 2-4 inches below the surface. The plants should be grown 3-4 inches apart. The bulb produces a small stalk that is pale yellow in color, wrapped in green grassy leaves. At the top, lilac teacup shaped petals bloom and shelter 3 amber colored Saffron stigma that poke beyond the bloom. 
+Family/Genus/Species: Iridaceae/Crocus/C. sativus
 
-The plant thrives in medium moisture soils with drainage and grow best in sunny or partially shaded spaces. Long dry summers are most suitable for a successful autumn harvest. The flowers curl at night and re-bloom in the morning and good weather. [^3]
+Crocus sativus sprouts 4-6 inches high from a corm 2-4 inches below the surface. The plants should be grown 3-4 inches apart. The bulb produces a small stalk that is pale yellow in color, wrapped in green grassy leaves. At the top, lilac teacup shaped petals bloom and shelter 3 amber colored Saffron stigma that poke beyond the bloom. 
+
+The plant thrives in medium moisture soils with drainage and grow best in sunny or partially shaded spaces. The flowers curl at night and re-bloom in the morning and good weather. [^3]
 
 
 ## Abundance and Reproduction
@@ -31,10 +33,13 @@ _Crocus sativus_ corms are sterile due to domestic cultivation and require manua
 ## _In situ_
 Saffron is used for medicinal and aesthetic purposes and can be used to season food, dye cloth a vibrant gold color, strengthen henna paste, color cosmetic products and scent perfume. Frescoes from akotiri depict Saffron henna tattoos and Linear B tablets from Knossos mark the presence of Saffron in the ancient economy. 
 <param ve-image>
-<img width="800" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png"> [^5]
+<img width="700" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png"> [^5]
 
 ## Seasonality 
+_Crocus sativus_ flowers in late August and early September. Long dry summers are most suitable for a successful autumn harvest. Another reason why Saffron is so valuable is because it can only be harvested once a year. 
+
 ## Nutrition/ Health Benefits
+
 ## Plant usage
 ## Domestication Information 
 ## Recipe Suggestion
@@ -50,7 +55,12 @@ Saffron is used for medicinal and aesthetic purposes and can be used to season f
 ## Domestication Information 
 ## Recipe Suggestion
 
-
+## Image
+<param ve-image 
+       label="saffron threads" 
+       description="saffron threads" 
+       license="public domain" 
+       url="https://cdn.britannica.com/17/170817-050-A4440347/Pile-saffron-threads.jpg ">
 
 
 ## Image
