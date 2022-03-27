@@ -33,10 +33,11 @@ _Crocus sativus_ corms are sterile due to domestic cultivation and require manua
 ## _In situ_
 Saffron is used for medicinal and aesthetic purposes and can be used to season food, dye cloth a vibrant gold color, strengthen henna paste, color cosmetic products and scent perfume. Frescoes from akotiri depict Saffron henna tattoos and Linear B tablets from Knossos mark the presence of Saffron in the ancient economy. 
 
-Dried saffron is very fragile and due to its arid environment is not likely to be found in an Archaeobotanical context. It would be more likely to find corm samples if they were carbonized or preserved due to a traumatic incident. [^8]
-
 <param ve-image>
 <img width="650" alt="Screen Shot 2022-03-27 at 2 08 03 PM" src="https://user-images.githubusercontent.com/102480585/160294704-2c95c33e-0dbf-4b50-b5ac-9c8e16dda411.png"> [^5]
+
+Dried saffron is very fragile and due to its arid environment is not likely to be found in an Archaeobotanical context. It would be more likely to find corm samples if they were carbonized or preserved due to a traumatic incident. [^8]
+
 
 ## Seasonality 
 _Crocus sativus_ flowers in late August and early September. Long dry summers are most suitable for a successful autumn harvest. Another reason why Saffron is so valuable is because it can only be harvested once a year. [^3]
@@ -49,8 +50,20 @@ The story of Saffron's domestication is highly contested but the leading theory 
 
 ## Plant usage
 Saffron is normally steeped in warm water, butter or milk into a flavoring additive for larger dishes. It can also be steeped to make dye and other pigments. 
+
 ## Recipe Suggestion
 Madhur Jaffrey's Saffron Rice 
+Ingredients:
+1 teaspoon saffron threads
+3 tablespoons hot milk
+1/4 teaspoon ground cardamom
+1/4 teaspoon sugar
+2 cups basmati rice
+2 tablespoons ghee
+2 medium cinnamon sticks
+2 2/3 cups water
+1 teaspoon salt
+
 1. Place the saffron on a piece of foil. Fold some of the foil over the saffron and crush it with a rolling pin or wooden potato masher. Put the crushed saffron in a small cup. Add the hot milk, cardamom, and sugar. Mix with a toothpick or the handle of a small spoon and set aside for 3 hours.
 2. Put the rice in a bowl and wash in several changes of water. Drain, add fresh water to cover generously, and leave to soak for 30 minutes. Drain.
 3. Pour the ghee in a heavy, lidded pan that will just hold the cooked rice comfortably and set over medium heat. When the ghee is hot, put in the cinnamon sticks. Stir for 10 seconds, then add the rice. Reduce the heat to medium-low and stir the rice around until the grain looks translucent, about 2 minutes. Add 2 2/3 cups of water and the salt. Bring to a boil. Cover. Reduce the heat to very, very low and cook for 25 minutes. Turn off the heat. Lift the lid and quickly dribble the saffron milk in any haphazard pattern. Quickly cover again and leave for 10 minutes. Mix the rice very delicately with a slotted spoon before serving. [^9]
